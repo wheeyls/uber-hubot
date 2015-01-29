@@ -1,0 +1,9 @@
+{
+  "hubot": {
+    "provider": "heroku",
+    "repository": "G2Labs-net/uber-hubot",
+    "environments": ["production"],
+
+    "heroku_production_name": "uber-hubot"
+  }
+}
